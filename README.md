@@ -15,5 +15,5 @@ This repository contains the original code for the audited solidity contracts : 
 ## Deployment
 
 The contract has been deployed on TRON Blockchain :
-- [STRX Token (Tronscan)](https://tronscan.io/#/contract/TNod9UpNzZWQiwqGxLfEvBhFfQ45mZpu1P/code)
-- [Staking Pool (Tronscan)](https://tronscan.io/#/contract/TBGGcQy6hj4wUiQxdYDcTPs7LYAGFeBbVS/code)
+- [SFI Token (Tronscan)](https://tronscan.io/#/contract/TVGiaML3hJE7sv9NEEVjqLbF5DcXJgHSfy/code)
+- [Staking Pool (Tronscan)](https://tronscan.io/#/contract/TGrdCu9fu8csFmQptVE25fDzFmPU9epamH/code)
